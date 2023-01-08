@@ -15,7 +15,6 @@ Demo with 4 letters
 ===================
 
 ```
-victorhidrogo@Victors-MacBook-Pro desktop % python wordle.py 4
 
 5 Tries left. Enter a valid 4 letter word: hope
 
